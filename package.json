@@ -1,6 +1,6 @@
 {
   "name": "restore-graphql-playground",
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "description": "Opt out of the Apollo Studio for testing GrapQl APIs",
   "main": "index.ts",
   "scripts": {

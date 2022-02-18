@@ -1,3 +1,6 @@
+// Adapted From
+// https://github.com/apollographql/apollo-server/blob/main/packages/apollo-server-core/src/plugin/landingPage/graphqlPlayground/index.ts
+
 // This is the landing page plugin for GraphQL Playground. It wraps
 // `@apollographql/graphql-playground-html`, our fork of upstream Playground.
 // That package just contains a small HTML shell that brings in the actual React

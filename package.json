@@ -17,5 +17,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/dephraiim/restore-graphql-playground"
+  },
+  "dependencies": {
+    "@apollographql/graphql-playground-html": "^1.6.29",
+    "apollo-server-plugin-base": "^3.5.1"
   }
 }
